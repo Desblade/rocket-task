@@ -1,3 +1,0 @@
-{"level":"error","message":"Request failed with status code 401","timestamp":"2023-12-21T10:42:17.362Z"}
-{"level":"error","message":"SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2023-12-21T17:00:16.067Z"}
-{"level":"error","message":"SASL: SCRAM-SERVER-FIRST-MESSAGE: client password must be a string","timestamp":"2023-12-21T17:00:16.067Z"}
